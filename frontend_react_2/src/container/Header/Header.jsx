@@ -1,5 +1,5 @@
 import React from "react";
-import { AppWrap, MotionWrap } from "../../wrapper";
+import { AppWrap } from "../../wrapper";
 import { motion } from "framer-motion";
 import { Images } from "../../constants";
 import "./header.scss";
